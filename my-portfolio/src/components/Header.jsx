@@ -15,7 +15,7 @@ const Header = ({ toggleTheme, theme }) => {
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5 }}
           >
-            &lt;DevName/&gt;
+            &lt;MikeHope254/&gt;
           </motion.a>
 
           <ul className="nav-links">

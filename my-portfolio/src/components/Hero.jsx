@@ -13,9 +13,11 @@ const Hero = () => {
           className="hero-content"
         >
           <h1 className="hero-title">
-            Hi, I'm <span className="highlight">Your Name</span>
+            Hi, I'm <span className="highlight">Michael Hope</span>
           </h1>
-          <h2 className="hero-subtitle">Full-Stack Developer</h2>
+          <h2 className="hero-subtitle">
+            Full-Stack Developer, Smart Contract Developer
+          </h2>
           <p className="hero-description">
             I build exceptional digital experiences with modern technologies.
           </p>
