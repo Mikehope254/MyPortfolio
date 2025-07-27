@@ -7,10 +7,18 @@ export const GlobalStyles = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  // body {
+  //   background: ${({ theme }) => theme.body};
+  //   color: ${({ theme }) => theme.text};
+  //   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  //   transition: all 0.25s linear;
+  // } 
+  
   body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background: ${({ theme }) => theme.body};
     color: ${({ theme }) => theme.text};
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     transition: all 0.25s linear;
   }
 
