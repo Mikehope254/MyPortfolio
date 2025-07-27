@@ -1,23 +1,17 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { FaReact, FaNodeJs, FaPython, FaAws, FaDatabase } from "react-icons/fa";
-import {
-  SiJavascript,
-  SiTypescript,
-  SiDocker,
-  SiGraphql,
-} from "react-icons/si";
+import { SiJavascript, SiTypescript, SiDocker } from "react-icons/si";
 
 const skills = [
-  { name: "JavaScript", icon: <SiJavascript />, level: 90 },
-  { name: "TypeScript", icon: <SiTypescript />, level: 80 },
-  { name: "React", icon: <FaReact />, level: 85 },
+  { name: "JavaScript", icon: <SiJavascript />, level: 70 },
+  { name: "TypeScript", icon: <SiTypescript />, level: 5 },
+  { name: "React", icon: <FaReact />, level: 80 },
   { name: "Node.js", icon: <FaNodeJs />, level: 80 },
-  { name: "Python", icon: <FaPython />, level: 75 },
   { name: "AWS", icon: <FaAws />, level: 70 },
-  { name: "SQL/NoSQL", icon: <FaDatabase />, level: 85 },
-  { name: "Docker", icon: <SiDocker />, level: 75 },
-  { name: "GraphQL", icon: <SiGraphql />, level: 70 },
+  { name: "MongoDB", icon: <FaDatabase />, level: 60 },
+  { name: "Docker", icon: <SiDocker />, level: 20 },
+  ,
 ];
 
 const About = () => {
