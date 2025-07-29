@@ -29,6 +29,15 @@ const projects = [
     github: "https://github.com/Mikehope254/MyPortfolio/tree/main/my-portfolio",
     demo: "#",
   },
+  {
+    id: 4,
+    title: "Full Stack Web3 App",
+    description:
+      "A Web3 Application with an interface to interact with blockchain nodes",
+    tech: ["React", "Framer Motion", "Styled Components"],
+    github: "https://github.com/Mikehope254/MyPortfolio/tree/main/my-portfolio",
+    demo: "#",
+  },
 ];
 
 const Projects = () => {
