@@ -5,15 +5,6 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 const projects = [
   {
     id: 1,
-    title: "E-commerce Platform",
-    description:
-      "A full-stack e-commerce application with React, Node.js, and MongoDB.",
-    tech: ["React", "Node.js", "MongoDB", "Redux", "Stripe"],
-    github: "#",
-    demo: "#",
-  },
-  {
-    id: 2,
     title: "To-do List App",
     description: "A personal task management tool with real-time updates.",
     tech: ["React", "Express", "Node.js", "MongoDB"],
@@ -21,7 +12,7 @@ const projects = [
     demo: "#",
   },
   {
-    id: 3,
+    id: 2,
     title: "Online Voting System",
     description:
       "Online Voting System built with MERN Stack and secured by Json Web Tokens",
@@ -30,7 +21,7 @@ const projects = [
     demo: "#",
   },
   {
-    id: 4,
+    id: 3,
     title: "Portfolio Website",
     description:
       "A responsive portfolio website built with React and Framer Motion.",
