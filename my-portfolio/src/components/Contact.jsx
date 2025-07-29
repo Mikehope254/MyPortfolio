@@ -55,27 +55,27 @@ const Contact = () => {
             </p>
 
             <div className="contact-methods">
-              <a href="mailto:your.email@example.com" className="contact-item">
-                <HiOutlineMail /> your.email@example.com
+              <a href="mailto:mikehope1738@gmail.com" className="contact-item">
+                <HiOutlineMail /> mikehope1738@gmail.com
               </a>
 
               <div className="social-links">
                 <a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://www.linkedin.com/in/michael-hope-5476b72b8/"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaLinkedin />
                 </a>
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/Mikehope254"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaGithub />
                 </a>
                 <a
-                  href="https://twitter.com/yourusername"
+                  href="https://x.com/Mikehope554"
                   target="_blank"
                   rel="noopener noreferrer"
                 >

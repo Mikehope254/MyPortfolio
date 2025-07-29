@@ -5,25 +5,9 @@ import { FaBriefcase, FaGraduationCap } from "react-icons/fa";
 const experience = [
   {
     id: 1,
-    role: "Senior Software Engineer",
-    company: "Tech Company Inc.",
-    period: "2021 - Present",
-    description:
-      "Led the development of multiple web applications using React and Node.js. Implemented CI/CD pipelines and improved application performance by 40%.",
-  },
-  {
-    id: 2,
-    role: "Software Developer",
-    company: "Startup Solutions",
-    period: "2019 - 2021",
-    description:
-      "Developed and maintained frontend components using React. Collaborated with backend team to design RESTful APIs.",
-  },
-  {
-    id: 3,
     role: "Junior Developer",
     company: "Digital Agency",
-    period: "2017 - 2019",
+    period: "2025",
     description:
       "Built responsive websites and web applications. Worked with clients to implement features and fix bugs.",
   },
@@ -33,14 +17,20 @@ const education = [
   {
     id: 1,
     degree: "B.Sc. Computer Science",
-    institution: "University of Technology",
-    period: "2013 - 2017",
+    institution: "Machakos University",
+    period: "2021-2025",
   },
   {
     id: 2,
-    degree: "AWS Certified Developer",
-    institution: "Amazon Web Services",
-    period: "2020",
+    degree: "MERN-Stack Development",
+    institution: "Freecodecamp",
+    period: "2025",
+  },
+  {
+    id: 3,
+    degree: "Cyfrin Updraft Web3 Development",
+    institution: "Cyfrin Updraft",
+    period: "2025",
   },
 ];
 
