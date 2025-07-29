@@ -14,20 +14,19 @@ const projects = [
   },
   {
     id: 2,
-    title: "Task Management App",
-    description:
-      "A collaborative task management tool with real-time updates using Socket.io.",
-    tech: ["React", "Express", "Socket.io", "JWT"],
-    github: "#",
+    title: "To-do List App",
+    description: "A personal task management tool with real-time updates.",
+    tech: ["React", "Express", "Node.js", "MongoDB"],
+    github: "https://github.com/Mikehope254/To-Do-List-2",
     demo: "#",
   },
   {
     id: 3,
-    title: "Weather Dashboard",
+    title: "Online Voting System",
     description:
-      "Weather application with forecast data from OpenWeatherMap API.",
-    tech: ["React", "Chart.js", "OpenWeatherMap API"],
-    github: "#",
+      "Online Voting System built with MERN Stack and secured by Json Web Tokens",
+    tech: ["React", "Express", "Node.js", "MongoDB"],
+    github: "https://github.com/Mikehope254/mern-voting-app",
     demo: "#",
   },
   {
@@ -36,7 +35,7 @@ const projects = [
     description:
       "A responsive portfolio website built with React and Framer Motion.",
     tech: ["React", "Framer Motion", "Styled Components"],
-    github: "#",
+    github: "https://github.com/Mikehope254/MyPortfolio/tree/main/my-portfolio",
     demo: "#",
   },
 ];
