@@ -33,12 +33,12 @@ const Header = ({ toggleTheme, theme }) => {
             </li>
             <li>
               <button onClick={toggleTheme} className="theme-toggle">
-                {theme === "light" ? <FaMoon /> : <FaSun />}
+                {theme === "dark" ? <FaSun /> : <FaMoon />}
               </button>
             </li>
             <li>
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/Mikehope254"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -47,7 +47,7 @@ const Header = ({ toggleTheme, theme }) => {
             </li>
             <li>
               <a
-                href="https://linkedin.com/in/yourusername"
+                href="https://www.linkedin.com/in/michael-hope-5476b72b8/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
