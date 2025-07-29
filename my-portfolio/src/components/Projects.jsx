@@ -35,7 +35,8 @@ const projects = [
     description:
       "A Web3 Application with an interface to interact with blockchain nodes",
     tech: ["React", "Framer Motion", "Styled Components"],
-    github: "https://github.com/Mikehope254/MyPortfolio/tree/main/my-portfolio",
+    github:
+      "https://github.com/Mikehope254/Cyfrin-Updraft-Course/tree/main/Full-Stack%20Web3%20Development%20Crash%20Course%20(Using%20AI)",
     demo: "#",
   },
 ];
