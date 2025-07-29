@@ -33,7 +33,7 @@ const Header = ({ toggleTheme, theme }) => {
             </li>
             <li>
               <button onClick={toggleTheme} className="theme-toggle">
-                {theme === "dark" ? <FaSun /> : <FaMoon />}
+                {theme === "light" ? <FaMoon /> : <FaSun />}
               </button>
             </li>
             <li>
