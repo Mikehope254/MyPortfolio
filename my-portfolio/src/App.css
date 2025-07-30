@@ -176,6 +176,13 @@ body {
   border: 5px solid var(--primary);
 }
 
+.profile-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
 .placeholder-image {
   width: 100%;
   height: 100%;

@@ -71,8 +71,11 @@ const About = () => {
             className="about-image"
           >
             <div className="image-wrapper">
-              {/* Replace with your actual photo */}
-              <div className="placeholder-image"></div>
+              <img
+                src="src/assets/gitProfile.png"
+                alt="Mike's Profile Pic"
+                className="profile-image"
+              />
             </div>
           </motion.div>
         </div>
