@@ -71,7 +71,7 @@ const About = () => {
           >
             <div className="image-wrapper">
               <img
-                src="/assets/profile.jpeg"
+                src="/MyPortfolio/src/assets/profile.jpeg"
                 alt="Mike's Profile Pic"
                 className="profile-image"
               />
