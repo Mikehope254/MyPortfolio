@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { FaReact, FaNodeJs, FaPython, FaAws, FaDatabase } from "react-icons/fa";
 import { SiJavascript, SiTypescript, SiDocker } from "react-icons/si";
@@ -72,7 +71,7 @@ const About = () => {
           >
             <div className="image-wrapper">
               <img
-                src="src/assets/profile.jpeg"
+                src="/assets/profile.jpeg"
                 alt="Mike's Profile Pic"
                 className="profile-image"
               />
