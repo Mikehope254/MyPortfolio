@@ -5,5 +5,4 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig({
   base: "/MyPortfolio/",
   plugins: [react()],
-  base: "/MyPortfolio",
 });

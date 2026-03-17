@@ -72,7 +72,7 @@ const About = () => {
           >
             <div className="image-wrapper">
               <img
-                src="src/assets/gitProfile.png"
+                src="src/assets/profile.jpeg"
                 alt="Mike's Profile Pic"
                 className="profile-image"
               />
