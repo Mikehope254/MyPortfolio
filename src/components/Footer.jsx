@@ -17,7 +17,7 @@ const Footer = () => {
             Built with <FaHeart className="heart" /> using React
           </p>
           <p>
-            &copy; {new Date().getFullYear()} Your Name. All rights reserved.
+            &copy; {new Date().getFullYear()} Mike Hope. All rights reserved.
           </p>
         </motion.div>
       </div>
