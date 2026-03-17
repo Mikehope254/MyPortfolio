@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react-swc";
 export default defineConfig({
   base: "/MyPortfolio/",
   plugins: [react()],
-  base: process.env.VITE_BASE_PATH || "/MyPortfolio",
+  base: "/MyPortfolio",
 });
