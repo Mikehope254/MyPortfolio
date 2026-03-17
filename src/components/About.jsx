@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { FaReact, FaNodeJs, FaPython, FaAws, FaDatabase } from "react-icons/fa";
 import { SiJavascript, SiTypescript, SiDocker } from "react-icons/si";
+import profilePic from "../assets/profile.jpeg";
 
 const skills = [
   { name: "JavaScript", icon: <SiJavascript />, level: 70 },
@@ -71,7 +72,7 @@ const About = () => {
           >
             <div className="image-wrapper">
               <img
-                src="/MyPortfolio/src/assets/profile.jpeg"
+                src={profilePic}
                 alt="Mike's Profile Pic"
                 className="profile-image"
               />
