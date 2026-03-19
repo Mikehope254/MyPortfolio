@@ -9,7 +9,7 @@ const projects = [
     description: "A personal task management tool with real-time updates.",
     tech: ["React", "Express", "Node.js", "MongoDB"],
     github: "https://github.com/Mikehope254/To-Do-List-2",
-    demo: "#",
+    demo: "https://to-do-list-2-frontend.vercel.app/",
   },
   {
     id: 2,
@@ -29,16 +29,16 @@ const projects = [
     github: "https://github.com/Mikehope254/MyPortfolio/tree/main/my-portfolio",
     demo: "#",
   },
-  {
-    id: 4,
-    title: "Full Stack Web3 App",
-    description:
-      "A Web3 Application with an interface to interact with blockchain nodes",
-    tech: ["React", "Framer Motion", "Styled Components"],
-    github:
-      "https://github.com/Mikehope254/Cyfrin-Updraft-Course/tree/main/Full-Stack%20Web3%20Development%20Crash%20Course%20(Using%20AI)",
-    demo: "#",
-  },
+  // {
+  //   id: 4,
+  //   title: "Full Stack Web3 App",
+  //   description:
+  //     "A Web3 Application with an interface to interact with blockchain nodes",
+  //   tech: ["React", "Framer Motion", "Styled Components"],
+  //   github:
+  //     "https://github.com/Mikehope254/Cyfrin-Updraft-Course/tree/main/Full-Stack%20Web3%20Development%20Crash%20Course%20(Using%20AI)",
+  //   demo: "#",
+  // },
 ];
 
 const Projects = () => {
